@@ -36,17 +36,6 @@ The work follows a complete engineering workflow:
 - **Manufacturing:** SLA 3D Printing (Standard Photopolymer Resin).
 - **Programming/Analysis:** Python / MATLAB (for experimental data post-processing - *recommend you add this if you used it*).
 
-## 📁 Repository Structure
-```
-.
-├── docs/
-│   └── TPMS_Gyroid_Heat_Exchanger_Full_Report.pdf   # Complete project thesis/report
-├── images/
-│   ├── cad_envelope.png
-│   ├── cfd_temperature_field.png
-│   └── experimental_setup.jpg
-└── README.md
-```
 
 ## 📄 Full Report
 For a detailed description of the analytical models, mesh independence study, and transient thermal analysis, please refer to the [Full Project Report](docs/TPMS_Gyroid_Heat_Exchanger_Full_Report.pdf).
